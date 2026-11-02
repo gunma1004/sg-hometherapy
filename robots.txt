@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sg-hometherapy.netlify.app/sitemap.xml
